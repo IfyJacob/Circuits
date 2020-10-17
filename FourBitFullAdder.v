@@ -1,3 +1,6 @@
+Author: Ify Jacob
+Description: Combination of four full bit adders
+
 module full_adder_1bit(A, B, Carry_in, SUM, Carry_out);
   input A;
   input B;
