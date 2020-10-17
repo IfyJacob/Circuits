@@ -1,3 +1,6 @@
+Author: Ify Jacob
+Description: Truth Set for SR Latch
+
 module SR_Latch(S, R, Q, Q_n, E);
 
    input S, R, E;
