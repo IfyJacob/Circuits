@@ -1,5 +1,5 @@
 Author: Ify Jacob
-Description: Half Bit Adder
+Description: Simple ciruit of inputs that turn on a light when F is true.
 
 module first_verilog_str(A, B, C, F);
   input A;
